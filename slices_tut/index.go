@@ -17,7 +17,6 @@ func printReportValue(r Report) {
 	)
 
 	fmt.Println("----------")
-
 	fmt.Println(&r.ID)
 }
 
